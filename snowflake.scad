@@ -24,7 +24,7 @@ union () {
             addition = i==1 ? 10 : 0;
 
             translate([-100+addition, -25, 0]){
-                cube([2, 50, 3]);   
+                cube([2, 50, 2.5]);   
             }
         }
     }

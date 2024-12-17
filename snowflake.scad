@@ -1,4 +1,4 @@
-scale = 1.2;
+scale = 1;
 
 rotation = 0;
 rotate([0, 0, rotation]) {
